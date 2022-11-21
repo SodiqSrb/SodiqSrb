@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 - [Kaggle Popular Titanic Project](https://www.kaggle.com/abdulsemiusodiq)
 - [Fin-Tech Churn Project](https://www.kaggle.com/abdulsemiusodiq)
-- [Costa Rican Household Poverty Level Prediction]([https://www.youtube.com/watch?v=N-L9hklSlNk](https://www.kaggle.com/abdulsemiusodiq)
+- [Costa Rican Household Poverty Level Prediction](https://www.youtube.com/watch?v=N-L9hklSlNk](https://www.kaggle.com/abdulsemiusodiq)
 - [Python Generated Data [Nigeria cities data]](https://www.kaggle.com/abdulsemiusodiq)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
