@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
   - [Praciting DS & Algos in Python](https://github.com/SodiqSrb/Algos-in-Python)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/SodiqSrb/Image-Analysis-Gan-and-NSFW) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>PowerShell And AI</b>
+  - [Generative Adversarial Network Face Project](https://github.com/SodiqSrb/demo-face-gan)
   - [JWipe (Disk Wiping Utility)](https://github.com/SodiqSrb/Power-zeroing)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   
