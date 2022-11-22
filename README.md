@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   - [JWipe (Disk Wiping Utility)](https://github.com/SodiqSrb/Power-zeroing)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   
-- <b>Docker, FastAPI# (.NET Desktop Applications)</b>
+- <b>Docker, FastAPI (.NET Desktop Applications)</b>
   - [Car price prediction system ](https://github.com/SodiqSrb/car-price-prediction)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/SodiqSrb/Truck-delivery)
