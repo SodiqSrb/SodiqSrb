@@ -3,7 +3,7 @@
 SodiqSrb/SodiqSrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1>Hi, I'm Sodiq! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sodiq! <br/><a href="https://github.com/SodiqSrb">AI and Machine Learning expert</a>, <a href="https://www.linkedin.com/in/abdulsemiu-sodiq-55b6b5186/">Mechatronics Engineer</a>. 
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
