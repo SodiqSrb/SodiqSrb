@@ -1,57 +1,51 @@
+# 👋 Hi, I'm Sodiq  
 
-<!---
-SodiqSrb/SodiqSrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1>Hi, I'm Sodiq! <br/><a href="https://github.com/SodiqSrb">AI and Machine Learning expert</a>, <a href="https://www.linkedin.com/in/abdulsemiu-sodiq-55b6b5186/">Mechatronics Engineer</a>. 
+💡 **Mechatronics Engineer | AI & Machine Learning Enthusiast | IT Professional**  
+I design and build intelligent systems at the intersection of **engineering, software, and data science**. With experience spanning **cloud infrastructure, web development, and applied AI/ML**, I enjoy solving real-world problems in logistics, consulting, and energy sectors.  
 
-<h2>👨‍💻 Machine Learning Projects:</h2>
+---
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/SodiqSrb/Algos-in-Python)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/SodiqSrb/Image-Analysis-Gan-and-NSFW) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell And AI</b>
-  - [Generative Adversarial Network Face Project](https://github.com/SodiqSrb/demo-face-gan)
-  - [JWipe (Disk Wiping Utility)](https://github.com/SodiqSrb/Power-zeroing)
-  - [Active Directory Bulk User Creation](https://github.com/SodiqSrb/AD_PS)
-  
-- <b>Docker, FastAPI (.NET Desktop Applications)</b>
-  - [Car price prediction system ](https://github.com/SodiqSrb/car-price-prediction)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/SodiqSrb/Truck-delivery)
+## 🔬 Featured Projects  
 
-<h2>💬 Popular Contributions </h2>
+### 🚀 Machine Learning & AI  
+- [Crop Disease Detection (PlantVillage Dataset)](https://github.com/SodiqSrb) – CNN-based system for agriculture support.  
+- [Poverty Prediction Web App](https://github.com/SodiqSrb) – Flask-based ML app with real socioeconomic datasets.  
+- [Content Recommendation Engine](https://github.com/SodiqSrb) – Prototype recommender system for small media firms.  
+- [GANs for Image Generation](https://github.com/SodiqSrb/demo-face-gan) – StyleGAN experiments with image synthesis.  
 
-- [Kaggle Popular Titanic Project](https://www.kaggle.com/abdulsemiusodiq)
-- [Fin-Tech Churn Project](https://www.kaggle.com/abdulsemiusodiq)
-- [Costa Rican Household Poverty Level Prediction](https://github.com/SodiqSrb/Projects)
-- [Python Generated Data [Nigeria cities data]](https://www.kaggle.com/abdulsemiusodiq)
-- [Data Cleaning](https://github.com/SodiqSrb/Data-cleaning)
+### 🌐 Full Stack & Cloud  
+- [CNG Finder](https://github.com/SodiqSrb) – Web app for locating CNG stations in Nigeria (Supabase + React).  
+- [CargoHive Africa](https://github.com/SodiqSrb) – Logistics platform prototype.  
+- [Naija-Faire](https://github.com/SodiqSrb) – SEO-friendly Nigerian entertainment & culture news site.  
 
-<h2> 🤳 Connect with me:</h2>
+### 🛠️ Engineering & Automation  
+- [Car Price Prediction](https://github.com/SodiqSrb/car-price-prediction) – ML + FastAPI containerized service.  
+- [Active Directory Bulk User Creation](https://github.com/SodiqSrb/AD_PS) – PowerShell automation for IT ops.  
+- [JWipe](https://github.com/SodiqSrb/Power-zeroing) – Disk wiping utility for secure system management.  
 
+---
 
-[<img align="left" alt="JoshMadakor | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+## 📊 Popular Contributions  
+- [Titanic ML Project](https://www.kaggle.com/abdulsemiusodiq) – Kaggle classic competition.  
+- [Costa Rican Household Poverty Prediction](https://github.com/SodiqSrb/Projects).  
+- [FinTech Customer Churn Analysis](https://www.kaggle.com/abdulsemiusodiq).  
+- [Nigeria Cities Data (Python-generated)](https://www.kaggle.com/abdulsemiusodiq).  
 
+---
 
-[upwork]: https://www.upwork.com/freelancers/~01cb885c22ce2b9c3d
-[facebook]:https://web.facebook.com/adeyemi.sodeeq.79
-[linkedin]: https://www.linkedin.com/in/abdulsemiu-sodiq-55b6b5186/
+## 🧰 Tech Stack  
+- **Languages**: Python, JavaScript (React/Vue), C++, PowerShell, Bash  
+- **AI/ML**: PyTorch, TensorFlow, scikit-learn, transformers  
+- **Cloud & DevOps**: AWS, Oracle Cloud, Docker, FastAPI, Supabase  
+- **Other Tools**: Git, SQL, WordPress, MATLAB, SolidWorks  
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🤝 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsemiu-sodiq-55b6b5186/)  
+[![Upwork](https://img.shields.io/badge/Upwork-success?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cb885c22ce2b9c3d)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?logo=facebook&logoColor=white)](https://web.facebook.com/adeyemi.sodeeq.79)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⚡ *“Engineering meets AI — building smarter systems for a better tomorrow.”*
