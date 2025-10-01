@@ -16,7 +16,7 @@ I design and build intelligent systems at the intersection of **engineering, sof
 ### 🌐 Full Stack & Cloud  
 - [CNG Finder](https://github.com/SodiqSrb) – Web app for locating CNG stations in Nigeria (Supabase + React).  
 - [CargoHive Africa](https://github.com/SodiqSrb) – Logistics platform prototype.  
-- [Naija-Faire](https://github.com/SodiqSrb) – SEO-friendly Nigerian entertainment & culture news site.  
+- [Pearllikeconsulting](https://github.com/SodiqSrb) – SEO-friendly Nigerian entertainment & culture news site.  
 
 ### 🛠️ Engineering & Automation  
 - [Car Price Prediction](https://github.com/SodiqSrb/car-price-prediction) – ML + FastAPI containerized service.  
@@ -26,15 +26,15 @@ I design and build intelligent systems at the intersection of **engineering, sof
 ---
 
 ## 📊 Popular Contributions  
-- [Titanic ML Project](https://www.kaggle.com/abdulsemiusodiq) – Kaggle classic competition.  
-- [Costa Rican Household Poverty Prediction](https://github.com/SodiqSrb/Projects).  
+- [GAN for MRI-to-CT Synthesis in Radiation Therapy](https://www.kaggle.com/abdulsemiusodiq) – 
+- [Robust GAN Discriminator Optimization with Noise Injection & Error Analysis](https://github.com/SodiqSrb/Projects).  
 - [FinTech Customer Churn Analysis](https://www.kaggle.com/abdulsemiusodiq).  
 - [Nigeria Cities Data (Python-generated)](https://www.kaggle.com/abdulsemiusodiq).  
 
 ---
 
 ## 🧰 Tech Stack  
-- **Languages**: Python, JavaScript (React/Vue), C++, PowerShell, Bash  
+- **Languages**: Python,Go, Golang, JavaScript (React/Vue), C++, PowerShell, Bash  
 - **AI/ML**: PyTorch, TensorFlow, scikit-learn, transformers  
 - **Cloud & DevOps**: AWS, Oracle Cloud, Docker, FastAPI, Supabase  
 - **Other Tools**: Git, SQL, WordPress, MATLAB, SolidWorks  
@@ -42,9 +42,9 @@ I design and build intelligent systems at the intersection of **engineering, sof
 ---
 
 ## 🤝 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsemiu-sodiq-55b6b5186/)  
-[![Upwork](https://img.shields.io/badge/Upwork-success?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cb885c22ce2b9c3d)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?logo=facebook&logoColor=white)](https://web.facebook.com/adeyemi.sodeeq.79)  
+[![LinkedIn](www.linkedin.com/in/abdulsemiu-sodiq-55b6b5186)  
+[![Fiverr](https://www.fiverr.com/s/zWGaedR)  
+[![Facebook](https://web.facebook.com/adeyemi.sodeeq.79/)  
 
 ---
 
