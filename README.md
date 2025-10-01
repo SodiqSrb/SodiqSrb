@@ -41,10 +41,11 @@ I design and build intelligent systems at the intersection of **engineering, sof
 
 ---
 
-## 🤝 Let’s Connect  
-[![LinkedIn](www.linkedin.com/in/abdulsemiu-sodiq-55b6b5186)  
-[![Fiverr](https://www.fiverr.com/s/zWGaedR)  
-[![Facebook](https://web.facebook.com/adeyemi.sodeeq.79/)  
+## 🤝 Let’s Connect 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsemiu-sodiq-55b6b5186)  
+[![Fiverr](https://img.shields.io/badge/Fiverr-success?logo=fiverr&logoColor=white)](https://www.fiverr.com/s/zWGaedR)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?logo=facebook&logoColor=white)](https://web.facebook.com/adeyemi.sodeeq.79/)  
 
 ---
 
